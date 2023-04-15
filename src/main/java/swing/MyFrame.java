@@ -1,4 +1,4 @@
-package src.main.java.swing;
+package swing;
 
 import java.awt.Color;
 import java.awt.event.KeyEvent;

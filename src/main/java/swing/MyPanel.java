@@ -1,4 +1,4 @@
-package src.main.java.swing;
+package swing;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -14,7 +14,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-import src.main.java.Point;
+import game.Point;
 
 /**
  * 

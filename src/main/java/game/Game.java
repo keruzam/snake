@@ -1,7 +1,7 @@
-package src.main.java;
+package game;
 
-import src.main.java.swing.MyFrame;
-import src.main.java.swing.MyLabel;
+import swing.MyFrame;
+import swing.MyLabel;
 
 /**
  * 
